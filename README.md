@@ -1,6 +1,7 @@
 # AngularHeldenreise
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
+But all the files in `src` were edited to reflect code stuff.
 
 ## Development server
 
@@ -9,6 +10,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Afterwards the code unfortunately has semicolons and stuff.
 
 ## Build
 
